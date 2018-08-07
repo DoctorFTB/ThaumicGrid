@@ -1,2 +1,2 @@
-1.0.0
-Release mod.
+1.0.2
+Fix reflection exception. 
