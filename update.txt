@@ -1,2 +1,2 @@
 1.0.3
-Fix #3, update to new version TC. 
+Fix #2. Fix #3. Update to new version TC. 
