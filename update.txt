@@ -1,2 +1,2 @@
-1.0.2
-Fix reflection exception. 
+1.0.3
+Fix #3, update to new version TC. 
