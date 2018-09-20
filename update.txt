@@ -1,2 +1,2 @@
-1.0.7
-Fix #10.
+1.0.8
+Fix #11. 1.6.5 RS version support!
