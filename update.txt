@@ -1,2 +1,2 @@
-1.0.8
-Fix #11. 1.6.5 RS version support!
+1.0.9
+Try fix #12. Add crystal visibility support.
