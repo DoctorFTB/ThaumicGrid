@@ -1,2 +1,2 @@
-1.0.9
-Try fix #12. Add crystal visibility support.
+1.0.10
+Try fix #12. Add crystal visibility support. Fix #13. Add updater config option.
